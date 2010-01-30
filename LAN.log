@@ -1,0 +1,10 @@
+[InstallShield Silent]
+Version=v6.00.000
+File=Log File
+[ResponseResult]
+ResultCode=0
+[Application]
+Name=REALTEK Gigabit and Fast Ethernet NIC Driver
+Version=1.70
+Company=REALTEK Semiconductor Corporation
+Lang=0009

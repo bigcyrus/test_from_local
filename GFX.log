@@ -1,0 +1,10 @@
+[InstallShield Silent]
+Version=v6.00.000
+File=Log File
+[ResponseResult]
+ResultCode=0
+[Application]
+Name=ATI Drivers
+Version=1.01.001
+Company=ATI Technologies Inc.
+Lang=0009

@@ -1,0 +1,7 @@
+ Check Operation System Version 
+ Realtek HD Audio Driver WDM Directory Exist 
+ Microsoft Bus Driver Directory Exist 
+ Copy Microsoft HD Audio QFE from MSHDQFE Directory
+ Copy Realtek HD Audio Driver from WDM Directory
+ Install Realtek HD Audio Audio Driver 
+ Copy Audio Driver to each correct position from Driver Directory
